@@ -27,8 +27,14 @@ A web-based laundry management application developed as an academic team project
 - JavaScript
 
 ## Screenshots
-
+- Leanding Page
 ![Tampilan Aplikasi](images/leandingPage.png)
+
+- Dashboard Pelanggan
+![Tampilan Aplikasi](images/dashboardPelanggan.png)
+
+- Dashboard Karyawan
+![Tampilan Aplikasi](images/dashboardKaryawan.png)
 
 ## Project Type
 
