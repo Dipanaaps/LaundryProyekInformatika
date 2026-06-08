@@ -28,7 +28,7 @@ A web-based laundry management application developed as an academic team project
 
 ## Screenshots
 
-(Add screenshots here)
+![Tampilan Aplikasi](images/leandingPage.png)
 
 ## Project Type
 
